@@ -1,0 +1,174 @@
+* {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  margin: 44px 0 144px 76px;
+}
+
+.link-header {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: normal;
+  color: #989d9c;
+  cursor: pointer;
+  margin-right: 23px;
+}
+
+.button-header {
+  width: 130px;
+  height: 41px;
+  background: #665ae1;
+  border: none;
+  border-radius: 20.5px;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: normal;
+  cursor: pointer;
+}
+
+.logo-image {
+  width: 568px;
+  height: 500px;
+  margin-left: 125px;
+  display: inline-block;
+}
+
+section {
+  display: inline-block;
+  margin-left: 86px;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: 900;
+  line-height: normal;
+  color: #515151;
+}
+
+h2 {
+  font-size: 58px;
+  font-weight: 500;
+  line-height: normal;
+  color: #515151;
+}
+
+p {
+  color: #848484;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: normal;
+  width: 515px;
+  margin-top: 32px;
+}
+
+.button-main {
+  border-radius: 30px;
+  background: #adff00;
+  border: none;
+  width: 239px;
+  height: 64px;
+  margin-top: 65px;
+  cursor: pointer;
+
+  color: #000;
+
+  font-size: 28px;
+  font-weight: 700;
+  line-height: normal;
+
+  border-radius: 50px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+@media screen and (max-width: 700px) {
+  header {
+    display: none;
+  }
+
+  p {
+    display: none;
+  }
+
+  .logo-image {
+  position: static;
+    margin-left: 14px;
+    margin-top: 215.72px;
+    margin-right: 22px;
+    margin-bottom: 24.05px;
+    display: block;
+  max-width: 99%;
+  max-height: 99%;
+    
+  }
+
+
+  section {
+    display: block;
+    margin-left: 0px;
+    margin: 30px 40px 30px 40px;
+  }
+
+  h1 {
+    font-size: 50px;
+    font-weight: 900;
+    line-height: normal;
+    text-align: center;
+  }
+
+  h2 {
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+  }
+
+  .button-main {
+
+    margin: 0 auto;
+    display: block;
+    margin-top: 17px;
+  }
+}
+@media screen and (max-width: 330px)
+
+{
+  .logo-image {
+
+    height: 20%;
+    position: static;
+      margin-left: 50px;
+      margin-top: 20px;
+      margin-right: 22px;
+      margin-bottom: 24.05px;
+      display: block;
+      width: 70%;
+     
+  
+  
+
+  
+  
+  }
+
+  h1 {
+    font-size: 30px;
+    font-weight: 900;
+    line-height: normal;
+    text-align: center;
+
+
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: 500;
+  text-align: center;
+
+
+}
+}
+
