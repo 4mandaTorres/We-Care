@@ -14,3 +14,5 @@
 - Encontre informações de contato do abrigo para agendar uma visita.
 
 <img src="https://github.com/4mandaTorres/We-Care/blob/master/img/Phone%20Mockup%20mobile%20DogFinder.png?raw=true"/>
+
+<h2>Página do projeto <a href="https://4mandatorres.github.io/We-Care/">DogFinder</a></h2>
